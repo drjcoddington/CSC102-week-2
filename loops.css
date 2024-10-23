@@ -1,0 +1,19 @@
+footer
+{
+    background-color: blue;
+    color: white;
+}
+
+#forLoop
+{
+    background-color: green;
+    color:aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#forLoop:hover
+{
+    background-color: pink;
+    color:black;
+    padding: 16px 32px;
+    transition-duration: .4s;
+}
